@@ -3,7 +3,7 @@
 # Webzen 2.O
 
 Introduction to Javascript<br>
-First step towards Full Stack Web Development
+First step towards Full Stack Web Development Projects
 
 </center>
 
