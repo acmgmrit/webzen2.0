@@ -10,7 +10,7 @@
     In asynchronous operations, on the other hand, you can move to another task before the previous one finishes. This way, with asynchronous programming you’re able to deal with multiple requests simultaneously, thus completing more tasks in a much shorter period of time.
 
 ## Java Vs JavaScript
-    There is Relation between them 
+    There is absolutely no relation between them 
 
 
 ## What is Javascript
